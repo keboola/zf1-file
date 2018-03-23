@@ -23,7 +23,6 @@
 require_once 'Zend/File/Transfer/Adapter/Http.php';
 require_once 'Zend/Filter/BaseName.php';
 require_once 'Zend/Filter/StringToLower.php';
-require_once 'Zend/Loader/PluginLoader.php';
 require_once 'Zend/Validate/File/Count.php';
 require_once 'Zend/Validate/File/Extension.php';
 require_once 'Zend/Validate/File/Upload.php';
