@@ -7,3 +7,7 @@ Zend Framework 1 - File
 [![License](https://poser.pugx.org/diablomedia/zendframework1-file/license)](https://packagist.org/packages/diablomedia/zendframework1-file)
 
 This is just the Zend_File component extracted from our fork of the Zend Framework 1 repo (https://github.com/diablomedia/zf1).
+
+## License
+
+MIT licensed, see [LICENSE](./LICENSE) file.
