@@ -617,6 +617,7 @@ abstract class Zend_File_Transfer_Adapter_Abstract
     {
         $check = $this->_getFiles($files, false, true);
         if (empty($check)) {
+            $this->_messages += ['nofile' => 'File must be uploaded'];
             return false;
         }
 
